@@ -28,4 +28,4 @@ Measuring the success of each MLB team paired with their consensus average farm 
 
 View the full data model code in the [MLB Farm Rankings vs Wins Notebook](Farm_System_Rankings.ipynb).
 
-![MLB Farm Rankings vs Wins Notebook](Farm_System_Rankings.png).
+![MLB Farm Rankings vs Wins Notebook](mlb_farm_data.png).
